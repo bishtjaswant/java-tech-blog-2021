@@ -1,0 +1,16 @@
+.primary{
+    background-color: #2196f3;
+}
+
+.clip-path{
+    clip-path: polygon(50% 0%, 100% 0, 100% 85%, 64% 100%, 25% 90%, 0 100%, 0 0);
+}
+
+.theater{
+    text-align: center;
+    font-size: 4rem;
+    color: #2196f3;
+    margin-top: .781rem;
+}
+
+ 
